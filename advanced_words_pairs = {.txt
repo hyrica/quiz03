@@ -1,0 +1,23 @@
+advanced_words_pairs = {
+
+"Ephemeral": "儚い",
+
+"Ubiquitous": "遍在する",
+
+"Ostentatious": "派手な",
+
+"Equanimity": "平静",
+
+"Magnanimous": "寛大な",
+
+"Sagacious": "賢明な",
+
+"Perspicacious": "洞察力のある",
+
+"Tenacious": "粘り強い",
+
+"Assiduous": "勤勉な",
+
+"Perfunctory": "形式的な"
+
+}
